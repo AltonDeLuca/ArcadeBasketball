@@ -15,8 +15,15 @@ new high scores for yourself or against other people locally.
 
 
 ## How to Install
-In order to play the game, download the Arcade Basketball.exe application from this repo and save it to your computer.
-When in a folder or on the desktop, double click the icon and the game should begin.
+There are multiple options to play the game:
+
+First Option is to visit https://github.com/AltonDeLuca/ArcadeBasketball and download a ZIP of the code.
+After this, extract the contents to your computer and then open the folder. Inside the folder is an "ArcadeBasketball" application that
+will launch the game and allow you to play! (Recommended)
+
+Second is to visit https://play.unity.com/p/608615b76f13a1010920ee91 and play online!
+
+Third is to visit https://simmer.io/@AndyDiCarlo/arcade-basketball and play online!
 
 
 ## Created For:

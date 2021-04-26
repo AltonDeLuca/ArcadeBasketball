@@ -1,8 +1,5 @@
 # ArcadeBasketball
 
-## Contributors
-Created by Andy DiCarlo, Alton DeLuca, Max Rioux and Devin Denham
-
 
 ## Game Overview
 Arcade Basketball is an arcade style game where the player can either choose to play offense or defense.
@@ -12,6 +9,12 @@ mode has the player block incoming shots from the CPU until a shot is made succe
 
 The purpose of the game is to score as many points as possible in each run and to set 
 new high scores for yourself or against other people locally.
+
+
+## Game Functions
+Offense Mode: Score as many points as you can in 10 shots.
+
+Defense Mode: Jump to block incoming CPU shots. If the CPU scores then the game ends.
 
 
 ## How to Install
@@ -28,6 +31,10 @@ Third is to visit https://simmer.io/@AndyDiCarlo/arcade-basketball and play onli
 
 ## Demo Video
 https://www.youtube.com/watch?v=N59o65DNdZM&ab_channel=AndrewDiCarlo
+
+
+## Contributors
+Created by Andy DiCarlo, Alton DeLuca, Max Rioux and Devin Denham
 
 
 ## Created For:
